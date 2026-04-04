@@ -5,10 +5,10 @@
     "creators": ["Michael Storen"],
     "verifier": "Michael Storen",
     "verification": "https://youtu.be/sUVnkZNq-kc",
-    "percentToQualify": 56,
+    "percentToQualify": "56",
     "password": "Free To Copy",
     "records": [
-         {
+        {
             "user": "IM SO GREEN (Yoink)",
             "link": "https://youtu.be/KSbcrT4cG7k",
             "percent": 100,

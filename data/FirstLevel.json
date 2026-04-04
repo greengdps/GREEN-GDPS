@@ -8,9 +8,17 @@
     "percentToQualify": "55",
     "password": "Free To Copy",
     "records": [
-        "user": "Michael Storen",
+        {
+            "user": "Michael Storen",
             "link": "https://youtu.be/Wf91QjSzq2A",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "NickGreen",
+            "link": "https://youtu.be/ALB-F862Npc?si=sf8lihsKu1MsVMHr&t=103",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }

@@ -8,5 +8,11 @@
     "percentToQualify": 56,
     "password": "Free To Copy",
     "records": [
+         {
+            "user": "IM SO GREEN (Yoink)",
+            "link": "https://youtu.be/KSbcrT4cG7k",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

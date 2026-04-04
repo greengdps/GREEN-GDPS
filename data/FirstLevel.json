@@ -2,10 +2,10 @@
     "id": 100,
     "name": "First Level",
     "author": "IM SO GREEN (Yoink)",
-    "creators": [],
+    "creators": ["IM SO GREEN (Yoink)"],
     "verifier": "IM SO GREEN (Yoink)",
     "verification": "https://youtu.be/LVvVyvzyT6s",
-    "percentToQualify": "100",
+    "percentToQualify": "63",
     "password": "Free To Copy",
     "records": [
     ]

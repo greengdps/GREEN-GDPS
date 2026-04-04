@@ -1,27 +1,27 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "IM SO GREEN (Yoink)",
+        "link": "https://www.youtube.com/@yyoinkgdyt"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "ErrorWinters",
+        "link": "https://www.youtube.com/@Errorwinters"
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Michael Storen",
+        "link": "https://www.youtube.com/@suomalainen_j%C3%A4%C3%A4t%C3%A4"
     },
     {
         "role": "trial",
-        "name": "Trial List Helper",
+        "name": "MiggyCheese",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Setharius",
+        "link": "https://www.youtube.com/@SethariusT"
     }
 ]

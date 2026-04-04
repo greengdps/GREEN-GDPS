@@ -1,1 +1,12 @@
-
+{
+    "id": 101,
+    "name": "1",
+    "author": "Michael Storen",
+    "creators": ["Michael Storen"],
+    "verifier": "Michael Storen",
+    "verification": "https://youtu.be/sUVnkZNq-kc",
+    "percentToQualify": 56,
+    "password": "Free To Copy",
+    "records": [
+    ]
+}

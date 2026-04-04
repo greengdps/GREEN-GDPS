@@ -1,1 +1,12 @@
-
+{
+    "id": 100,
+    "name": "First Level",
+    "author": "IM SO GREEN (Yoink)",
+    "creators": [],
+    "verifier": "IM SO GREEN (Yoink)",
+    "verification": "https://youtu.be/LVvVyvzyT6s",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+    ]
+}
